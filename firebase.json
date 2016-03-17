@@ -1,0 +1,9 @@
+{
+  "firebase": "vehicle-iot",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
