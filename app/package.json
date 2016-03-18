@@ -1,0 +1,26 @@
+{
+  "name": "vehicle-iot",
+  "version": "1.0.0",
+  "description": "vehicle control and monitoring using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takin/vehicle-iot.git"
+  },
+  "author": "syamsul muttaqin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takin/vehicle-iot/issues"
+  },
+  "homepage": "https://github.com/takin/vehicle-iot#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.1"
+  }
+}

@@ -1,2 +1,2 @@
-app/public/bower_components
 server/node_modules
+app/node_modules
